@@ -1,0 +1,20 @@
+{
+  "name": "paul9653-bible-guide",
+  "interface": {
+    "displayName": "김영진의 성경 가이드"
+  },
+  "plugins": [
+    {
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "name": "bible-beginners-guide",
+      "category": "Education & Research",
+      "source": {
+        "path": "./plugins/bible-beginners-guide",
+        "source": "local"
+      }
+    }
+  ]
+}

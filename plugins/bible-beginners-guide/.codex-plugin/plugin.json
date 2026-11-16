@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "김영진"
+  },
+  "description": "성경을 처음 읽는 사람과 질문자를 위한 초보자 친화적 5단계 성경 해설 및 질의응답 가이드.",
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Education & Research",
+    "defaultPrompt": [
+      "요한복음 3장 16절을 처음 읽는 사람도 이해하도록 설명해 줘.",
+      "성경에서 은혜란 무엇인지 쉬운 예시와 함께 알려줘.",
+      "창세기 1장을 역사적 배경과 핵심 메시지 중심으로 설명해 줘."
+    ],
+    "developerName": "김영진",
+    "displayName": "성경입문자와 질문자들을 위한 성경 가이드앱",
+    "longDescription": "성경을 처음 읽는 사람, 기독교 신앙을 탐색하는 구도자, 역사와 문화에 호기심이 있는 질문자를 위해 성경 구절과 주제를 쉽게 풀이합니다. 본문 확인, 문맥과 이야기, 역사문화 배경, 핵심 의미, 실제 적용의 5단계로 안내하며 후속 질문에 친절하게 답합니다. 본문에 근거한 설명과 신학적 해석, 확실한 역사적 정보와 불확실한 견해를 구분합니다.",
+    "shortDescription": "처음 읽는 성경, 쉽게 묻고 이해하기",
+    "logo": "assets/icon.png",
+    "composerIcon": "assets/icon.png",
+    "websiteURL": "https://bible-guide-kim-youngjin.focusedsparrow1.chatgpt.site/",
+    "supportURL": "https://bible-guide-kim-youngjin.focusedsparrow1.chatgpt.site/support",
+    "privacyPolicyURL": "https://bible-guide-kim-youngjin.focusedsparrow1.chatgpt.site/privacy",
+    "termsOfServiceURL": "https://bible-guide-kim-youngjin.focusedsparrow1.chatgpt.site/terms"
+  },
+  "keywords": [
+    "성경",
+    "성경입문",
+    "성경주해",
+    "Bible",
+    "기독교",
+    "질문"
+  ],
+  "name": "bible-beginners-guide",
+  "skills": "./skills/",
+  "version": "1.0.0"
+}
